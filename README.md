@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github.com/mnq11/Profile/blob/main/pic/208593.gif" />
+<img align="center" src="" />
 </p>
 
 
@@ -25,13 +25,13 @@ My name is Mohammed. I am a software developer .
 
 * ⛵   Love open source collaborations.
 
-<details>
+
  
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" />
 </p>
 
-</details>
+
   
 <hr>
 
@@ -50,7 +50,6 @@ My name is Mohammed. I am a software developer .
 <a href= "https://www.linkedin.com/in/mohammed-nabil-48b539107/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://www.mohammedn.info/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
-
 
 
 

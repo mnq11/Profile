@@ -1,8 +1,8 @@
-# Hello there 👋 
+# Hello there 👋
 
 
 <p align="center">
-<img align="center" src="https://www.github.com/mnq11/mnq11/blob/main/pic/208593.gif" />
+<img align="center" src="https://github.com/mnq11/mnq11/blob/main/pic/208593.gif" />
 </p>
 
 

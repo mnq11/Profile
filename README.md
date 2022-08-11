@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img align="center" src="" />
+<img align="center" src="https://github.com/mnq11/mnq11/blob/main/pic/208593.gif" />
 </p>
 
 
@@ -17,7 +17,7 @@ My name is Mohammed. I am a software developer .
 * 🎓   Batchelor in Software development and Computer Science.
 
 
-* 🌱   Currently learning Linux, Rust, Solidity, and exploring new technology's .
+* 🌱   Currently learning Linux, Rust, Solidity, and exploring new technology .
 
 
 * 💻   Looking for software development opportunities.

@@ -1,4 +1,4 @@
-# Hello there 👋 <p align="center"> <img align="center" src="giphy.gif" /></p>
+# Hello there 👋 
 
 
 <p align="center">

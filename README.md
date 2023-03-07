@@ -17,7 +17,7 @@ My name is Mohammed. I am a software developer .
 * 🎓   Batchelor in Software development and Computer Science.
 
 
-* 🌱   Currently learning Linux, Rust, Solidity, and exploring new technology .
+* 🌱   Currently learning , and exploring new technology .
 
 
 * 💻   Looking for software development opportunities.
